@@ -12,7 +12,7 @@ export const ProjectList = [
   }
 ];
 
-// --------------------------------------- Skills
+//Skills
 
 export const stackList = [
   {
